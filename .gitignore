@@ -1,1 +1,2 @@
-*.csv
+submission.csv
+__pycache__
